@@ -6,13 +6,6 @@ description: More advanced Systems to code with Aoi.JS
 
 ## Here you can find some advanced guides of Aoi.JS features:
 
-{% page-ref page="music.md" %}
-
-{% page-ref page="invite-system.md" %}
-
-{% page-ref page="slash-commands.md" %}
-
-
-
-
-
+[Link para a página de música](music.md)
+[Link para o sistema de convites](invite-system.md)
+[Link para os comandos de barra](slash-commands.md)

@@ -1,6 +1,3 @@
----ription: The available functions and guides for your needs.
----
-
 # Introduction
 
 ![](https://aoi.js.org/assets/images/aoijs-new.png)

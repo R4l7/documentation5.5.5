@@ -29,7 +29,11 @@ bot.variables({
 bot.variables({
   prefix: "!",
   myName: "Leref"
-})Note: If you're using a command handler, this remains the same!If you want to make a new variable, for example "apples", you just have to add a , after the last variable value and type the name and value of the new variable, as shown below:bot.variables({
+})
+```
+* Note: If you're using a command handler, this remains the same!If you want to make a new variable, for example "apples", you just have to add a , after the last variable value and type the name and value of the new variable, as shown below:
+```javascript
+bot.variables({
   prefix: "!",
   myName: "Leref",
   apples: 0

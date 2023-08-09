@@ -1,0 +1,13 @@
+# Configurações básicas
+title: R4L7 - Meu Site Incrível
+description: Um site para compartilhar informações interessantes
+
+# Opções de construção
+markdown: kramdown # Use o processador Markdown de sua escolha
+plugins: [] # Lista de plugins Jekyll a serem usados
+
+# URL base do site
+url: "https://r4l7.github.io"
+
+# Outras configurações personalizadas
+author: R4L7
